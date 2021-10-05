@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73e7a082-98c9-47e1-8e1a-156109d9891e" name="Default Changelist" comment="" />
+    <list default="true" id="73e7a082-98c9-47e1-8e1a-156109d9891e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Abstract - 20072.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Morning - 21653.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Notebook - 22355.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Spiderweb - 6133.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Technology - 888.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video-bg/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video-bg/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video-bg/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video-bg/video.mp4" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +23,17 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1i90tZPqopy9mMtfMv2P632pVPO" />
   <component name="ProjectViewState">
@@ -39,16 +64,15 @@
       <workItem from="1601380888495" duration="11793000" />
       <workItem from="1601465599973" duration="9663000" />
       <workItem from="1601556299760" duration="3104000" />
+      <workItem from="1610566658379" duration="785000" />
+      <workItem from="1610996685048" duration="1370000" />
+      <workItem from="1611053782666" duration="3094000" />
+      <workItem from="1611911834889" duration="540000" />
+      <workItem from="1633435244181" duration="10548000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="412" y="183" key="#Web_Browsers" timestamp="1601386357014">
-      <screen x="0" y="23" width="1280" height="728" />
-    </state>
-    <state x="412" y="183" key="#Web_Browsers/0.23.1280.728@0.23.1280.728" timestamp="1601386357014" />
   </component>
 </project>
