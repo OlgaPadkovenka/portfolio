@@ -3,18 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73e7a082-98c9-47e1-8e1a-156109d9891e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Abstract - 20072.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Morning - 21653.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Notebook - 22355.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Spiderweb - 6133.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Technology - 888.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video-bg/cover.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video-bg/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video-bg/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/video-bg/video.mp4" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +57,7 @@
       <workItem from="1610996685048" duration="1370000" />
       <workItem from="1611053782666" duration="3094000" />
       <workItem from="1611911834889" duration="540000" />
-      <workItem from="1633435244181" duration="10548000" />
+      <workItem from="1633435244181" duration="13384000" />
     </task>
     <servers />
   </component>
