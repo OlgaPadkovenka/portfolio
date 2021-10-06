@@ -1,14 +1,23 @@
 
-@media (max-width: 576px) {
-    .video {
+@media (max-width: 768px) {
+    body {
+        overflow-x: hidden;
+    }
+    .intro {
         display: none;
+    }
+    .nav_mobil {
+        display: block;
     }
 }
 
 body {
     margin: 0;
     font-family: Tahoma, sans-serif;
-   scroll-behavior: smooth;
+    scroll-behavior: smooth;
+}
+.nav_mobil {
+    display: none;
 }
 
 .intro {
