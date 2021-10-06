@@ -1,4 +1,5 @@
 
+
 body {
     margin: 0;
     font-family: Tahoma, sans-serif;
@@ -85,13 +86,17 @@ body {
     transition-duration: 1.0s;
 }
 
-.page-footer {
-    background: #148293;
-}
+
 .btn.btn-info:not(:hover) {
     background: #148293 !important;
     border-color: transparent !important;
 }
 .btn.btn-info:hover {
     background: #26a5b9 !important;
+}
+
+@media (max-width: 992px) {
+    .video {
+        display: none;
+    }
 }
