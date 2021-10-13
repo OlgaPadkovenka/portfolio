@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="https://olgapadkovenka.github.io/portfolio/index.css">
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
@@ -19,52 +18,66 @@
 <body>
 
     <!--Video de fond start-->
-    <div class="intro">
+    <div class="intro d-none d-md-block">
         <div class="video">
             <video class="video_media" src="img/Future.mp4" autoplay muted loop></video>
         </div>
 
-        <div class="intro_content mt-4">
+        <div class="d-flex flex-column" style="height: 100vh">
             <!--Navbar -->
-            <nav class="d-flex intro_nav navbar navbar-expand-lg navbar-light">
-                <div class="mr-auto p-2 ml-4">
-                    <a class="navbar-brand text-white" href="#">Olga Padkovenka</a>
+            <nav class="d-flex justify-content-between text-white mx-4 mt-2">
+                <div class="p-2">
+                    <a class="text-white" href="#">Olga Padkovenka</a>
                 </div>
-                <button class="navbar-toggler bg-light" type="button"
-                        data-toggle="collapse" data-target="#navbarSupportedContent"
-                        aria-controls="navbarSupportedContent" aria-expanded="false"
-                        aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <div class="p-2 ml-auto">
-                        <a class="nav-link text-white" id="accueil" href="#">ACCUEIL<span class="sr-only">(current)</span></a>
+                <div class="d-flex">
+                    <div class="p-2">
+                        <a class="nav-link text-white" href="#">
+                            ACCUEIL
+                            <span class="sr-only">(current)</span>
+                        </a>
                     </div>
-
                     <div class="p-2">
                         <a class="nav-link text-white" href="#formations">FORMATIONS</a>
                     </div>
                     <div class="p-2">
                         <a class="nav-link text-white" href="#projets">REALISATIONS</a>
                     </div>
-                    <div class="p-2 mr-4">
+                    <div class="p-2">
                         <a class="nav-link text-white" href="#contact">Contact</a>
                     </div>
                 </div>
             </nav>
             <!--Navbar -->
-            <div class="container">
-                <h3 class="intro_title mb-4">Olga Padkovenka</h3>
-                <p class="intro_text h5">Apprenante conceptrice développeuse d'application chez M2i à Lyon</p>
-                <p class="intro_text font-italic h6">"Luxuriam non reprehendit, modo sit vacua infinita cupiditate et timore"</p>
+            <div class="container d-flex align-items-center justify-content-center" style="flex: 1">
+                <div>
+                    <h3 class="intro_title mb-4">Olga Padkovenka</h3>
+                    <p class="intro_text h5">Apprenante conceptrice développeuse d'application chez M2i à Lyon</p>
+                    <p class="intro_text font-italic h6">"Luxuriam non reprehendit, modo sit vacua infinita cupiditate et timore"</p>
+                </div>
             </div>
         </div>
     </div>
     <!--Video de fond end-->
 
     <!--Navbar mobile-->
-        <nav class="d-flex intro_nav navbar navbar-expand-lg navbar-light nav_mobil">
-            <div class="mr-auto p-2 ml-4">
+
+    <div class="d-md-none">
+        <nav class="position-relative navbar navbar-expand-md navbar-light w-100 align-items-start">
+            <div>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <div class="p-2 ml-auto">
+                        <a class="nav-link" id="accueil" href="#">ACCUEIL<span class="sr-only">(current)</span></a>
+                    </div>
+                    <div class="p-2">
+                        <a class="nav-link" href="#formations">FORMATIONS</a>
+                    </div>
+                    <div class="p-2">
+                        <a class="nav-link" href="#projets">REALISATIONS</a>
+                    </div>
+                    <div class="p-2 mr-4">
+                        <a class="nav-link" href="#contact">Contact</a>
+                    </div>
+                </div>
             </div>
             <button class="navbar-toggler bg-light" type="button"
                     data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -72,22 +85,8 @@
                     aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <div class="p-2 ml-auto">
-                    <a class="nav-link" id="accueil" href="#">ACCUEIL<span class="sr-only">(current)</span></a>
-                </div>
-
-                <div class="p-2">
-                    <a class="nav-link" href="#formations">FORMATIONS</a>
-                </div>
-                <div class="p-2">
-                    <a class="nav-link" href="#projets">REALISATIONS</a>
-                </div>
-                <div class="p-2 mr-4">
-                    <a class="nav-link" href="#contact">Contact</a>
-                </div>
-            </div>
         </nav>
+    </div>
     <!--Navbar mobile-->
 
     <!--Formations et diplômes-->
@@ -204,28 +203,28 @@
             <div>
                         <p class="h5 text-left mb-4">Grenoble, France</p>
                         <p class="h5 text-left mb-4 mt-4">06 71 20 98 52</p>
-                        <p class="h5 text-left mb-4 mt-4">olgapadkovenka@gmail.com</p>
+                        <p class="h5 text-left mb-2 mt-4">olgapadkovenka@gmail.com</p>
             </div>
     </div>
     <!--Contact end-->
 
     <!-- Footer -->
-    <footer class="page-footer font-small intro">
-        <div class="text-center">
-            <a class="btn btn-info mt-4" href="https://githab.com/OlgaPadkovenka">
+    <footer class="text-center mb-4">
+        <div>
+            <a class="btn btn-info mt-2" href="https://githab.com/OlgaPadkovenka">
                 <img src="img/icon-gitlab.png" alt="Logotype de GitHab">
             </a>
-            <a class="btn btn-info mt-4" href="https://gitlab.com/olga.padkovenka">
+            <a class="btn btn-info mt-2" href="https://gitlab.com/olga.padkovenka">
                 <img src="img/icon-gitlab.png" alt="Logotype de GitLab">
             </a>
-            <a class="btn btn-info  mt-4" href="https://www.linkedin.com/in/olga-padkovenka/">
+            <a class="btn btn-info  mt-2" href="https://www.linkedin.com/in/olga-padkovenka/">
                 <img src="img/icon-linkedin.png" alt="Logotype de LinkedIn">
             </a>
         </div>
         <!-- Copyright -->
-        <div class="footer-copyright text-center text-white py-3">
+        <small class="py-3">
             Olga Padkovenka © 2020 Copyright
-        </div>
+        </small>
         <!-- Copyright -->
     </footer>
     <!-- Footer -->
