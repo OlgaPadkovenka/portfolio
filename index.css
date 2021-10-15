@@ -71,9 +71,13 @@ body {
 
 
 .btn.btn-info:not(:hover) {
-    background: #148293 !important;
+    background: #26a5b9 !important;
     border-color: transparent !important;
 }
 .btn.btn-info:hover {
-    background: #26a5b9 !important;
+    background: #148293 !important;
+}
+
+.footer-page {
+    background: #26a5b9;
 }
