@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73e7a082-98c9-47e1-8e1a-156109d9891e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/icon-github.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-gitlab.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon-gitlab.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/icon-linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/icon-linkedin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +41,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -63,11 +67,22 @@
       <workItem from="1634110899886" duration="2855000" />
       <workItem from="1634211202846" duration="4672000" />
       <workItem from="1635318514976" duration="18000" />
-      <workItem from="1635319037474" duration="3052000" />
+      <workItem from="1635319037474" duration="6034000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
